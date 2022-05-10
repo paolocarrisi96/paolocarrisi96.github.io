@@ -6,8 +6,8 @@
     $company = $_POST['company'];
 	$messages = $_POST['messages'];
  
-	mail('your gmail address', $name, $email, $address, $company);
+	mail('obaid.oc1@gmail.com', $name, $email, $address, $company);
 ?>
-    <a href="index-3.html.html" style="dispaly: block; text-align: center;"><span>Back To Home</span></a>
+    <a href="index.html" style="dispaly: block; text-align: center;"><span>Back To Home</span></a>
 </div>
 
